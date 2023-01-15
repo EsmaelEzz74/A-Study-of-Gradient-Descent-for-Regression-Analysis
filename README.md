@@ -1,5 +1,6 @@
-# Numerical_Optimization
-Gradient Descent for Regression
+# A-Study-of-Gradient-Descent-for-Regression-Analysis
+
+Exploring the Power of Machine Learning to Improve Data-Driven Decisions
 
 8 Different Types of Gradient Descent Programmed form Scratch in OOP :
 
